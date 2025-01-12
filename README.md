@@ -18,7 +18,7 @@ This system uses **BERT** (Bidirectional Encoder Representations from Transforme
 
 ### 🏅 Performance
 
-- **Training Accuracy**: 99.81%
+- **Training Accuracy**: 99.12%
 - **Validation Accuracy**: 99.90%
 
 ---
