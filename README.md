@@ -132,7 +132,7 @@ The application is deployed using Streamlit for easy web access. Future plans in
 ---
 
 ## 📥 Download
-**[Click here to download the project files](https://github.com/Pacifier25/Waste-Classification-System/archive/refs/heads/main.zip)**
+**[Click here to download the project files](https://github.com/Pacifier25/Advertisment_Classification/archive/refs/heads/main.zi)**
 
 ---
 ## 🙏 Acknowledgements
